@@ -1,0 +1,2 @@
+Vanx | Vida: 500 | Ataque: 350
+Benx | Vida: 600 | Ataque: 400
